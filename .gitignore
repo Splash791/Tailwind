@@ -1,1 +1,2 @@
 venv/\n__pycache__/\n.ipynb_checkpoints/\n*.pyc\n.DS_Store
+package-lock.json\nnode_modules/
